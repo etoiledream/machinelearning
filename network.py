@@ -1,6 +1,6 @@
 # -*- coding:UTF-8 -*-
 import numpy as np
-
+# 2019/4/21
 # neural network class definition
 class neuralNetwork(object):#继承object对象
 
